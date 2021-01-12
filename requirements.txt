@@ -1,7 +1,6 @@
 argparse
 flask
 pygments
-tkinter
 sqlite-libs
 peewee
 tzlocal
